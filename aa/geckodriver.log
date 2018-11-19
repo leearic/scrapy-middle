@@ -1,0 +1,79 @@
+1541732877999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.TJj45G0s403M"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1541732880104	Marionette	INFO	Listening on port 49803
+1541732880150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541733155982	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.R9nYQUE6oERw"
+*** You are running in headless mode.
+1541733157482	Marionette	INFO	Listening on port 49863
+1541733157517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541733179968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.xQeVcPjfFzww"
+*** You are running in headless mode.
+1541733181430	Marionette	INFO	Listening on port 49909
+1541733181507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541733211865	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.FzSB80kvpt1R"
+*** You are running in headless mode.
+1541733213363	Marionette	INFO	Listening on port 49953
+1541733213403	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+JavaScript error: https://s3a.pstatp.com/toutiao/picc_mig/dist/img.min.js?ver=20180412_01, line 1: TypeError: g.win is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1541733354540	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "--USER_AGENT = Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.t4dkiDPUNLx4"
+*** You are running in headless mode.
+1541733355974	Marionette	INFO	Listening on port 50132
+1541733355988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541737789623	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.izLn4epBRROi"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1541737791301	Marionette	INFO	Listening on port 50642
+1541737791387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1541739693559	Marionette	INFO	Stopped listening on port 50642
+1541739698501	Marionette	INFO	Stopped listening on port 49803
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+1542098645029	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.9zImZaxEUNEr"
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542098646678	Marionette	INFO	Listening on port 49615
+1542098646781	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [OPENGL] Failed to init compositor with reason: FEATURE_FAILURE_OPENGL_CREATE_CONTEXT
+1542098710715	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.ufOlv6in1ZQQ"
+*** You are running in headless mode.
+1542098712214	Marionette	INFO	Listening on port 49666
+1542098712263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542098729725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.KtI7H54trycD"
+*** You are running in headless mode.
+1542098731151	Marionette	INFO	Listening on port 49706
+1542098731168	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542102586334	Marionette	INFO	Stopped listening on port 49615
+1542102589732	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/6p/nb5q6gqs1qg9qjnpw_vhn6980000gn/T/rust_mozprofile.1W2XAwfoVjY1"
+*** You are running in headless mode.
+1542102591324	Marionette	INFO	Listening on port 49771
+1542102591397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
